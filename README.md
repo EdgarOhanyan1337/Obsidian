@@ -1,5 +1,2 @@
-# Obsidian
-sex
-fghxfghxfghfsgthhhjvcfghjbvcghjkhgvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-
+Проект двух инди разрабов, которые стараются придумать,хоть какую то игру, которую будут покупать
 
