@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a31cb3b34e769a59","x":120,"y":100,"width":250,"height":475,"type":"text","text":"         сюжет"},
 		{"id":"8e3f4a839b4929ab","x":-165,"y":100,"width":250,"height":475,"type":"text","text":"         геимплей"},
-		{"id":"8d1de0039150cc03","x":400,"y":100,"width":250,"height":475,"type":"text","text":"     продвижение и продажа"},
+		{"id":"8d1de0039150cc03","x":400,"y":100,"width":250,"height":475,"type":"text","text":"     продвижение и продажа\nдля google play, ios "},
 		{"id":"5a6b3879c162afc0","type":"text","text":"1","x":-68,"y":-80,"width":625,"height":50}
 	],
 	"edges":[
