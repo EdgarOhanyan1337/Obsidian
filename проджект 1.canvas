@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"5a6b3879c162afc0","x":-165,"y":-94,"width":250,"height":60,"type":"text","text":"п"}
+		{"id":"5a6b3879c162afc0","x":-165,"y":-94,"width":625,"height":50,"type":"text","text":"[ ВЕРХ: Статус проекта | Ссылка на GitHub | Дата последнего созвона ]"},
+		{"id":"c2b3d3e31cd05a59","x":-165,"y":40,"width":300,"height":400,"type":"file","file":"tutor/photo_2026-02-28_13-57-57 1.jpg"}
 	],
 	"edges":[]
 }
