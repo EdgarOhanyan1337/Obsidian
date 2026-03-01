@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"5a6b3879c162afc0","type":"text","text":"1","x":-165,"y":-94,"width":625,"height":50},
 		{"id":"a31cb3b34e769a59","x":120,"y":100,"width":250,"height":475,"type":"text","text":"         сюжет"},
 		{"id":"8e3f4a839b4929ab","x":-165,"y":100,"width":250,"height":475,"type":"text","text":"         геимплей"},
-		{"id":"8d1de0039150cc03","x":400,"y":100,"width":250,"height":475,"type":"text","text":""}
+		{"id":"8d1de0039150cc03","x":400,"y":100,"width":250,"height":475,"type":"text","text":""},
+		{"id":"5a6b3879c162afc0","type":"text","text":"1","x":-68,"y":-80,"width":625,"height":50}
 	],
 	"edges":[
-		{"id":"2063808f91cb6fe8","fromNode":"5a6b3879c162afc0","fromSide":"bottom","toNode":"a31cb3b34e769a59","toSide":"top"}
+		{"id":"2063808f91cb6fe8","fromNode":"5a6b3879c162afc0","fromSide":"bottom","toNode":"a31cb3b34e769a59","toSide":"top"},
+		{"id":"7c23750ef12e8e8c","fromNode":"5a6b3879c162afc0","fromSide":"bottom","toNode":"8e3f4a839b4929ab","toSide":"top"},
+		{"id":"1e7932fbed20a706","fromNode":"5a6b3879c162afc0","fromSide":"bottom","toNode":"8d1de0039150cc03","toSide":"top"}
 	]
 }
