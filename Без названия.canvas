@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6007c45c51ca7edc","x":-171,"y":-155,"width":250,"height":60,"type":"text","text":"sex"},
+		{"id":"7c1c5d9099dac508","x":158,"y":-119,"width":250,"height":60,"type":"text","text":"sex1\n"}
+	],
+	"edges":[
+		{"id":"6e2160d85fd90c54","fromNode":"6007c45c51ca7edc","fromSide":"right","toNode":"7c1c5d9099dac508","toSide":"left"}
+	]
+}
